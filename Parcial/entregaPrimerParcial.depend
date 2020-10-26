@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1603051252 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1603050111 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/utn.h
+
+1603150412 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/fecha.c
+
+1603154205 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"utn.h"
+	"string.h"
+	"trabajo.h"
+	"servicio.h"
+	"notebook.h"
+	"tipo.h"
+	"marca.h"
+
+1603151669 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+
+1603150533 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/fecha.h
+
+1603152317 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/servicio.h
+
+1603152501 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/notebook.h
+	"tipo.h"
+	"marca.h"
+
+1603152204 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/marca.h
+
+1603152268 /home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/tipo.h
+
+1603152204 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/marca.c
+	"marca.h"
+
+1603154474 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"utn.h"
+	"string.h"
+	"notebook.h"
+
+1603152317 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/servicio.c
+	"servicio.h"
+
+1603152268 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/tipo.c
+	"tipo.h"
+
+1603151659 source:/home/ronymartinez/Copia Ubuntu/Parciales/entregaPrimerParcial/trabajo.c
+	"trabajo.h"
+
+1603150412 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/fecha.c
+
+1603679943 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"string.h"
+	"utn.h"
+	"trabajo.h"
+	"servicio.h"
+	"notebook.h"
+	"tipo.h"
+	"marca.h"
+	"informes.h"
+
+1603681586 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/utn.h
+
+1603680206 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+
+1603150533 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/fecha.h
+
+1603679911 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/servicio.h
+
+1603679676 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/notebook.h
+	"tipo.h"
+	"marca.h"
+
+1603680134 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/tipo.h
+
+1603679786 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/marca.h
+
+1603679943 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/marca.c
+	"marca.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"string.h"
+
+1603678106 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"utn.h"
+	"string.h"
+	"notebook.h"
+
+1603152317 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/servicio.c
+	"servicio.h"
+
+1603680052 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"string.h"
+
+1603678346 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"trabajo.h"
+	"utn.h"
+
+1603051252 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1603681988 source:/home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	"informes.h"
+	"utn.h"
+
+1603682413 /home/ronymartinez/Copia Ubuntu/Parciales/EntregaFinal3/informes.h
+	"notebook.h"
+	"tipo.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
